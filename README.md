@@ -1,3 +1,5 @@
+<img src="./assets/icon.png" alt="Rightclick Freedom logo" width="100" />
+
 # RightClick Freedom
 
 A simple Chrome extension that unlocks right-click, copy, and text selection on websites that block these features. Made for students, researchers, and anyone who needs to copy content from restrictive websites.
