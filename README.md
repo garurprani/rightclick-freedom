@@ -13,6 +13,12 @@ A simple Chrome extension that unlocks right-click, copy, and text selection on 
 - **Whitelist/Blacklist** system for fine control
 - **One-click enable** on any tab
 
+## 📸 Screenshots
+
+| Main Interface | Settings Panel |
+|----------------|----------------|
+| ![Main Interface](screenshots/Screenshot_1.png) | ![Settings Panel](screenshots/Screenshot_2.png) |
+
 ## Installation
 
 ### From Chrome Web Store (Coming Soon)
