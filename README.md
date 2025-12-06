@@ -17,7 +17,7 @@ A simple Chrome extension that unlocks right-click, copy, and text selection on 
 
 | Main Interface | Settings Panel |
 |----------------|----------------|
-| ![Main Interface](screenshots/Screenshot_1.png) | ![Settings Panel](screenshots/Screenshot_2.png) |
+| ![Main Interface](screenshots/Screenshot_1.png) | ![Settings Panel](screenshots/Screenshot_3.png) |
 
 ## Installation
 
