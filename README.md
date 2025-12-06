@@ -45,14 +45,6 @@ A simple Chrome extension that unlocks right-click, copy, and text selection on 
 - **Custom Lists**: Manage allowed/blocked domains in Settings
 - **Reset**: Restore default settings anytime
 
-## 📁 Files Explained
-📁 extension-folder/
-├── manifest.json -Extension configuration
-├── popup.html - Popup interface
-├── popup.js - Popup functionality
-├── background.js - Background auto-detection
-├── content_script.js - The magic that unlocks sites
-└── styles.css - UI styling
 ## 🛠️ How It Works (Technical Stuff)
 
 ### The Content Script (`content_script.js`):
@@ -87,12 +79,12 @@ Found a bug? Have a feature idea? I'd love your help!
 - **Additional unlock methods** for tricky sites
 - **Testing** on various websites
 
-## 📝 Note About CSS
+## Note About CSS
 
 **Full honesty time:** The CSS in this project isn't 100% my own work. I'm better at JavaScript than CSS, so I used AI tools (ChatGPT).
 If you're good at CSS and can make it look better or cleaner, please help out! It works fine now, but could probably be improved.
 
-## 🐛 Known Issues & Limitations
+## Known Issues & Limitations
 
 - **Some sites** use complex anti-copy measures that might not be fully defeated
 - **Browser extensions pages** (`chrome://`) can't be modified
@@ -106,26 +98,7 @@ If you're good at CSS and can make it look better or cleaner, please help out! I
 - **Open source** - you can check all the code yourself
 - **Minimal permissions** - only what's needed to work
 
-## 📄 License
-
-MIT License - see the LICENSE file
-
-You can:
-- Use it for anything
-- Modify it
-- Share it
-- Make your own versions
-
-Just give credit.
-
-## 🙏 Credits & Thanks
-
-- **Original idea**: Getting frustrated with websites that won't let me copy text
-- **Inspiration**: Other right-click unlockers I've used
-- **Everyone who tested it**: For feedback and bug reports
-- **AI Tools**: For helping with the CSS parts I struggled with
-
-## 💬 Support
+## Support
 
 Having problems?
 1. Check the "Known Issues" section above
@@ -136,5 +109,6 @@ Having problems?
 ---
 
 **Made with ❤️ by someone who just wanted to copy some text for a project.**
+MIT License - see the LICENSE file
 
 *If this helped you, maybe give the repo a star on GitHub!*
